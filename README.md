@@ -1,7 +1,7 @@
 # Maple Bus Arduino
 Dreamcast maple bus reader (and eventually writer) for Arduino compatible devices, developed on Teensy 4.0.
 
-# Maple Bus Information
+## Maple Bus Spec Information
 
 Wrire protocol:
 http://mc.pp.se/dc/maplewire.html
